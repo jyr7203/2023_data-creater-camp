@@ -1,2 +1,2 @@
-# 2023_data-creater-camp
+# 2023_data_creater_camp
 예선 대회 코드
